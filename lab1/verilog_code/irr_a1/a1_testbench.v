@@ -9,7 +9,7 @@
 //Astop1: 60dB
 //Astop2: 60dB
 //date:2022/04/05
-//author: Shun Luo
+
 //version: A1(Basic)
 //module:iir_a1_testbench
 //************************************//
