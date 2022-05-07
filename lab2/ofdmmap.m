@@ -5,11 +5,7 @@
 % Description :
 %   This file maps the subcarriers for OFDM symbols
 % -------------------------------------------------------------------------
-% Revisions   :
-%   Date                 Author            Description
-%   24-Apr-2022    Jiaxin Lyu        file adapted from large sim-environment
-% -------------------------------------------------------------------------
-%   Author: Jiaxin Lyu (e-mail: ljx981120@sjtu.edu.cn)
+%
 % =========================================================================
 function  data_out = ofdmmap(data_in, OFDM)
 
