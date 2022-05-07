@@ -6,11 +6,7 @@
 %   This file prepares constellation symbols with the (Gray) mapping, and
 %   generate the transmitted symbols
 % -------------------------------------------------------------------------
-% Revisions   :
-%   Date                 Author            Description
-%   24-Apr-2022    Jiaxin Lyu        file adapted from large sim-environment
-% -------------------------------------------------------------------------
-%   Author: Jiaxin Lyu (e-mail: ljx981120@sjtu.edu.cn)
+%
 % =========================================================================
 
 function ch = ofdmmod(paradata, OFDM)
